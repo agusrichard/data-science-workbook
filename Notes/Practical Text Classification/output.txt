@@ -1,0 +1,15 @@
+Running amazon data set
+Best Accuracy : 0.8207
+{'vocab_size': 5000, 'num_filters': 32, 'maxlen': 100, 'kernel_size': 3, 'embedding_dim': 50}
+Test Accuracy : 0.8255
+
+Running imdb data set
+Best Accuracy : 0.8176
+{'vocab_size': 5000, 'num_filters': 64, 'maxlen': 100, 'kernel_size': 3, 'embedding_dim': 50}
+Test Accuracy : 0.8182
+
+Running yelp data set
+Best Accuracy : 0.8089
+{'vocab_size': 5000, 'num_filters': 64, 'maxlen': 100, 'kernel_size': 3, 'embedding_dim': 50}
+Test Accuracy : 0.8182
+
